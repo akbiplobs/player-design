@@ -1,2 +1,2 @@
 # player-design
-https://akbiplobsa.github.io/player-design/
+https://akbiplobs.github.io/player-design/
